@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Button, Form,  Row, Table } from "react-bootstrap";
 import Servico from './Service/produtoService';
 import ProdutoEstoque from './Componentes/produtoEstoque/produtoEstoque.js';
+import Css from './App.css';
 
 
 
