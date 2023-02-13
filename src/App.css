@@ -7,6 +7,8 @@
 }
 
 .divBotao{
+
+  
   flex-direction: column !important;
   display: flex !important;
   justify-content: flex-end !important;
